@@ -1,2 +1,2 @@
-# BounceOffAlgo
-Bounce Off Algorithm
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
